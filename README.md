@@ -1,1 +1,296 @@
 # PeriodicoELFARO
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <a href="https://www.clubdelectores.cl/mujeres-extraordinarias/">
+        <img src="https://mediaserver.emol.cl/au_creatives_au_elements/elements/73555/42cabaaf6319e28aad21da3be6d380195239dd06_282799_colecciones-super-200324.jpg?1712000683" alt="Aviso" style="width: 65%; max-width: 700px; display: block; margin: 0 auto;">
+    </a>
+    <title>El Faro - Diario Local</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.0/css/bulma.min.css">
+</head>
+
+<body>
+<section class="hero is-danger">
+    <div class="hero-body">
+        <div class="container">
+                <img src="data:image/png;base64,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" alt="Imagen">
+                <div class="texto">
+                    <p><h1 class="title">
+                        Periodico EL Faro
+                    </h1>
+                    <h2 class="subtitle">
+                        Todas las noticias de Chile y el Mundo. Entra e informate de los últimos acontecimientos ocurridos en nuestro país.
+                    </h2></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<header class="hero is-primary">
+    <div class="hero-body">
+        <nav class="navbar" role="navigation" aria-label="main navigation">
+            <div class="container">
+                <div class="navbar-brand">
+                    <a class="navbar-item" href="#inicio">Inicio</a>
+                    <a class="navbar-item" href="#general">General</a>
+                    <a class="navbar-item" href="#deporte">Deporte</a>
+                    <a class="navbar-item" href="#negocios">Negocios</a>
+                    <a class="navbar-item" href="#contacto">Contacto</a>
+                </div>
+            </div>
+        </nav>
+    </div>
+</header>
+
+<section id="articulos-destacados" class="section">
+    <div class="container">
+        <h2 class="title is-3">Artículos más recientes destacados</h2>
+        <div class="columns is-multiline">
+            <div class="column is-4">
+                <div class="card">
+                    <div class="card-image">
+                        <figure class="image is-4by3">
+                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT15WYL-gllH2UmE1NJl3IXTBMi3Nd8QFfOFg&s" alt="Imagen 1">
+                        </figure>
+                    </div>
+                    <div class="card-content">
+                        <p class="title is-4">Ante alerta por volcán Ruang en Indonesia: Cuales escenarios pueden provocar tsunamis</p>
+                        <p>La emergencia provoco que las autoridades declararan alerta de tsunami por la caida de material al mar, algo que ya sucedio en 2018.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="column is-4">
+                <div class="card">
+                    <div class="card-image">
+                        <figure class="image is-4by3">
+                            <img src="https://www.nippon.com/es/ncommon/contents/japan-topics/2483195/2483195.jpg" alt="Imagen 2">
+                        </figure>
+                    </div>
+                    <div class="card-content">
+                        <p class="title is-4">¿De Red BUll a Ferrari?</p>
+                        <p>El movimiento que podria remecer a la formula uno: los motivos y lo que se dice</p>
+                    </div>
+                </div>
+            </div>
+            <div class="column is-4">
+                <div class="card">
+                    <div class="card-image">
+                        <figure class="image is-4by3">
+                            <img src="https://www.ngenespanol.com/wp-content/uploads/2023/03/que-es-el-blanqueamiento-de-corales-y-que-lo-provoca.jpg" alt="Imagen 3">
+                        </figure>
+                    </div>
+                    <div class="card-content">
+                        <p class="title is-4">La gran barrera de coral vuelve a sufrir</p>
+                        <p>El ecosistema donde coexisten mas de 1600 especies de peces sufre daños en 73% de los arrecifes estudiados.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<main class="section">
+    <div class="container">
+        <div class="columns is-multiline">
+            
+            <div class="column is-12">
+                <section id="general" class="box" style="background-color: #000000;">
+                    <h2 class="title is-4">Sección General</h2>
+                    <div class="columns is-multiline">
+                        <div class="column is-6">
+                            <div class="card">
+                                <div class="card-content">
+                                    <p class="title is-5">Ministerio de Educación anuncia cambios al calendario de postulación al Sistema de Adminisión Escolar 2025</p>
+                                    <p>La cartera adelantó 23 dias el proceso e iniciará el 2 de agosro, mientras que los resultados de esta etapa se conocerán el 17 de octubre</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="column is-6">
+                            <div class="card">
+                                <div class="card-content">
+                                    <p class="title is-5">La misión que estudiará los polos del Sol</p>
+                                    <p>Solar Orbiter, la misión de la ESA con fuerte participación de la NASA, ofrecerá las primeras imágenes de las ignotas regiones polares del Sol</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Puedes agregar más noticias siguiendo la misma estructura -->
+                    </div>
+                </section>
+            </div>
+
+            <div class="column is-12">
+                <section id="deporte" class="box" style="background-color: #000000;">
+                    <h2 class="title is-4">Sección de Deporte</h2>
+                    <div class="columns is-multiline">
+                        <!-- Aquí puedes agregar los artículos de la sección de deporte -->
+                    </div>
+                </section>
+            </div>
+
+            <div class="column is-12">
+                <section id="negocios" class="box" style="background-color: #000000;">
+                    <h2 class="title is-4">Sección de Negocios</h2>
+                    <div class="columns is-multiline">
+                        <!-- Aquí puedes agregar los artículos de la sección de negocios -->
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+</main>
+
+<section>
+    <div class="container">
+        <div class="navbar-brand">
+            <a href="https://www.accuweather.com/es/cl/chile-weather">
+                <img src="https://img.freepik.com/vector-premium/conjunto-icono-tiempo-clima_690577-182.jpg" width="100" height="50">
+                <p>El pronóstico del clima</p>
+            </a>
+        </div>
+    </div>
+</section>
+
+<footer class="footer">
+    <article class="widget section">
+        <div class="footer-content">
+            <section id="contacto">
+                <h2 class="title is-4">Formulario de Contacto</h2>
+                <form id="formulario-contacto">
+                    <div class="field">
+                        <label class="label"></label>
+                        <div class="control">
+                            <input class="input" type="text" id="nombre-contacto" placeholder="Nombre" required>
+                        </div>
+                    </div>
+                    <div class="field">
+                        <label class="label"></label>
+                        <div class="control">
+                            <textarea class="textarea" id="mensaje-contacto" placeholder="Mensaje" required></textarea>
+                        </div>
+                    </div>
+                    <div class="field">
+                        <div class="control">
+                            <button class="button is-primary" type="submit">Enviar Mensaje</button>
+                        </div>
+                    </div>
+                </form>
+            </section>
+        </div>
+    </article>
+    <div class="footer-content">
+        <p>Derechos de autor © 2024 - El Faro</p>
+        <p>Contacto: contacto@elfaro.com</p>
+    </div>
+</footer>
+
+<script>
+
+    // JavaScript para manejar el formulario de contacto
+    const formularioContacto = document.getElementById('formulario-contacto');
+
+    formularioContacto.addEventListener('submit', function(event) {
+        event.preventDefault();
+
+        const nombre = document.getElementById('nombre-contacto').value;
+        const mensaje = document.getElementById('mensaje-contacto').value;
+
+        // Limpiar el formulario después de enviar el mensaje
+        formularioContacto.reset();
+    });
+
+    // Creamos el botón dinámicamente
+    const buttonContainer = document.getElementById('button-container');
+    const button = document.createElement('button');
+    button.textContent = 'Botón';
+    buttonContainer.appendChild(button);
+
+    // Podemos agregar un evento de clic al botón si queremos
+    button.addEventListener('click', () => {
+        alert('¡Haz hecho clic en el botón!');
+    });
+
+
+</script>
+
+<style>
+
+
+    body {
+        background-color: #ffffff;
+    }
+
+    .hero-body {
+        padding: 1rem 0;
+    }
+
+    .footer {
+        text-align: center;
+        background-color: #b7b3b3;
+        color: #525252;
+        padding: 3rem 0;
+    }
+
+    .footer p {
+        margin-bottom: 0;
+    }
+
+
+    .container {
+        max-width: 960px;
+        margin: auto;
+    }
+
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .title {
+        color: #cecece;
+    }
+
+    .hero.is-danger {
+    --bulma-hero-h: var(--bulma-danger-h);
+    --bulma-hero-s: var(--bulma-danger-s);
+    --bulma-hero-background-l: var(--bulma-danger-l);
+    --bulma-hero-color-l: var(--bulma-danger-invert-l);
+    background-color: #ffffff;
+    color: hsl(var(--bulma-hero-h), var(--bulma-hero-s), var(--bulma-hero-color-l));
+    }
+
+    .hero.is-primary {
+    --bulma-hero-h: var(--bulma-primary-h);
+    --bulma-hero-s: var(--bulma-primary-s);
+    --bulma-hero-background-l: var(--bulma-primary-l);
+    --bulma-hero-color-l: var(--bulma-primary-invert-l);
+    background-color: #f3f4f6;
+    color: hsl(0deg 0% 8.35%);
+    }
+
+    .container {
+    display: flex;
+    align-items: center;
+    }
+
+    .img {
+    width: 50%;
+    }
+
+    .texto {
+    width: 50%;
+    padding: 40px;
+    }
+
+    .footer-content {
+    display: inline-block;
+    }
+
+</style>
+
+</body>
+</html>
+
+
